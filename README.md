@@ -13,38 +13,38 @@ Este repositório foi desenvolvido com o objetivo de consolidar conceitos fundam
 
 ### 2. Sistema de Compra Online 🛒
 * **Conceitos de Banco de Dados:** `AUTO_INCREMENT`, `UNIQUE`, `DECIMAL(10,2)`, `FOREIGN KEY`, `INSERT INTO`.
-* 📁 [Acessar arquivos desta atividade](./02-compra-online/)
-* 📄 [Ver Script SQL desta atividade](./02-compra-online/script.sql)
+* 📁 [Acessar arquivos desta atividade](./Exercicio_2_Sistema_de_Compra_Online/)
+* 📄 [Ver Script SQL desta atividade](./CompraOnlinescript.sql)
 
 ### 3. Sistema Médico 🩺
 * **Conceitos de Banco de Dados:** `AUTO_INCREMENT`, `UNIQUE`, `FOREIGN KEY`.
-* 📁 [Acessar arquivos desta atividade](./03-sistema-medico/)
-* 📄 [Ver Script SQL desta atividade](./03-sistema-medico/script.sql)
+* 📁 [Acessar arquivos desta atividade](./Exercicio_3_Sistema_de_Agendamento_Medico/)
+* 📄 [Ver Script SQL desta atividade](./AgendamentoMedicoscript.sql)
 
 ### 4. Sistema Estacionamento 🚗
 * **Conceitos de Banco de Dados:** `DATETIME`, `DECIMAL(10,2)`, `FOREIGN KEY`.
-* 📁 [Acessar arquivos desta atividade](./04-sistema-estacionamento/)
-* 📄 [Ver Script SQL desta atividade](./04-sistema-estacionamento/script.sql)
+* 📁 [Acessar arquivos desta atividade](./Exercicio_4_Sistema_de_Controle_de_Estacionamento/)
+* 📄 [Ver Script SQL desta atividade](./ControleEstacionamentoscript.sql)
 
 ### 5. Sistema Delivery 🍕
 * **Conceitos de Banco de Dados:** `UNIQUE`, `DECIMAL(10,2)`, `FOREIGN KEY`.
-* 📁 [Acessar arquivos desta atividade](./05-sistema-delivery/)
-* 📄 [Ver Script SQL desta atividade](./05-sistema-delivery/script.sql)
+* 📁 [Acessar arquivos desta atividade](./Exercicio_5_Sistema_de_Delivery_de_Restaurante/)
+* 📄 [Ver Script SQL desta atividade](./Deliveryscript.sql)
 
 ### 6. Sistema Reserva de Hotel 🏨
 * **Conceitos de Banco de Dados:** `ENUM`, `DATETIME`, `DECIMAL(15,2)`, `FOREIGN KEY`.
-* 📁 [Acessar arquivos desta atividade](./06-reserva-hotel/)
-* 📄 [Ver Script SQL desta atividade](./06-reserva-hotel/script.sql)
+* 📁 [Acessar arquivos desta atividade](./Exercicio_6_Sistema_de_Reserva_de_Hotel/)
+* 📄 [Ver Script SQL desta atividade](./ReservaHotelscript.sql)
 
 ### 7. Conta de Usuário 👥
 * **Conceitos de Banco de Dados:** `ENUM`, `UNIQUE`, `DECIMAL(10,2)`.
-* 📁 [Acessar arquivos desta atividade](./07-conta-usuario/)
-* 📄 [Ver Script SQL desta atividade](./07-conta-usuario/script.sql)
+* 📁 [Acessar arquivos desta atividade](./Exercicio_7_Sistema_de_Contas_de_Usuario_Streaming/)
+* 📄 [Ver Script SQL desta atividade](./Streamingscript.sql)
 
 ### 8. Sistema de Passagens ✈️
 * **Conceitos de Banco de Dados:** `ENUM`, `UNIQUE`, `DECIMAL(10,2)`.
-* 📁 [Acessar arquivos desta atividade](./08-sistema-passagens/)
-* 📄 [Ver Script SQL desta atividade](./08-sistema-passagens/script.sql)
+* 📁 [Acessar arquivos desta atividade](./Exercicio_8_Sistema_de_Passagens_Aereas/)
+* 📄 [Ver Script SQL desta atividade](./PassagensAreasscript.sql)
 
 ---
 
