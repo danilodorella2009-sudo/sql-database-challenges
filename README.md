@@ -8,35 +8,43 @@ Este repositório foi desenvolvido com o objetivo de consolidar conceitos fundam
 
 ### 1. Sistema Biblioteca Escolar 📚
 * **Conceitos de Banco de Dados:** `PRIMARY KEY`, `TINYINT`, `DEFAULT`.
-* 🔗 [Acessar Pasta do Projeto](./01-biblioteca-escolar/) | 📄 [Acessar Script SQL](./01-biblioteca-escolar/script.sql)
+* 📁 [Acessar arquivos desta atividade](./01-biblioteca-escolar/)
+* 📄 [Ver Script SQL desta atividade](./01-biblioteca-escolar/script.sql)
 
 ### 2. Sistema de Compra Online 🛒
 * **Conceitos de Banco de Dados:** `AUTO_INCREMENT`, `UNIQUE`, `DECIMAL(10,2)`, `FOREIGN KEY`, `INSERT INTO`.
-* 🔗 [Acessar Pasta do Projeto](./02-compra-online/) | 📄 [Acessar Script SQL](./02-compra-online/script.sql)
+* 📁 [Acessar arquivos desta atividade](./02-compra-online/)
+* 📄 [Ver Script SQL desta atividade](./02-compra-online/script.sql)
 
 ### 3. Sistema Médico 🩺
 * **Conceitos de Banco de Dados:** `AUTO_INCREMENT`, `UNIQUE`, `FOREIGN KEY`.
-* 🔗 [Acessar Pasta do Projeto](./03-sistema-medico/) | 📄 [Acessar Script SQL](./03-sistema-medico/script.sql)
+* 📁 [Acessar arquivos desta atividade](./03-sistema-medico/)
+* 📄 [Ver Script SQL desta atividade](./03-sistema-medico/script.sql)
 
 ### 4. Sistema Estacionamento 🚗
 * **Conceitos de Banco de Dados:** `DATETIME`, `DECIMAL(10,2)`, `FOREIGN KEY`.
-* 🔗 [Acessar Pasta do Projeto](./04-sistema-estacionamento/) | 📄 [Acessar Script SQL](./04-sistema-estacionamento/script.sql)
+* 📁 [Acessar arquivos desta atividade](./04-sistema-estacionamento/)
+* 📄 [Ver Script SQL desta atividade](./04-sistema-estacionamento/script.sql)
 
 ### 5. Sistema Delivery 🍕
 * **Conceitos de Banco de Dados:** `UNIQUE`, `DECIMAL(10,2)`, `FOREIGN KEY`.
-* 🔗 [Acessar Pasta do Projeto](./05-sistema-delivery/) | 📄 [Acessar Script SQL](./05-sistema-delivery/script.sql)
+* 📁 [Acessar arquivos desta atividade](./05-sistema-delivery/)
+* 📄 [Ver Script SQL desta atividade](./05-sistema-delivery/script.sql)
 
 ### 6. Sistema Reserva de Hotel 🏨
 * **Conceitos de Banco de Dados:** `ENUM`, `DATETIME`, `DECIMAL(15,2)`, `FOREIGN KEY`.
-* 🔗 [Acessar Pasta do Projeto](./06-reserva-hotel/) | 📄 [Acessar Script SQL](./06-reserva-hotel/script.sql)
+* 📁 [Acessar arquivos desta atividade](./06-reserva-hotel/)
+* 📄 [Ver Script SQL desta atividade](./06-reserva-hotel/script.sql)
 
 ### 7. Conta de Usuário 👥
 * **Conceitos de Banco de Dados:** `ENUM`, `UNIQUE`, `DECIMAL(10,2)`.
-* 🔗 [Acessar Pasta do Projeto](./07-conta-usuario/) | 📄 [Acessar Script SQL](./07-conta-usuario/script.sql)
+* 📁 [Acessar arquivos desta atividade](./07-conta-usuario/)
+* 📄 [Ver Script SQL desta atividade](./07-conta-usuario/script.sql)
 
 ### 8. Sistema de Passagens ✈️
 * **Conceitos de Banco de Dados:** `ENUM`, `UNIQUE`, `DECIMAL(10,2)`.
-* 🔗 [Acessar Pasta do Projeto](./08-sistema-passagens/) | 📄 [Acessar Script SQL](./08-sistema-passagens/script.sql)
+* 📁 [Acessar arquivos desta atividade](./08-sistema-passagens/)
+* 📄 [Ver Script SQL desta atividade](./08-sistema-passagens/script.sql)
 
 ---
 
@@ -48,4 +56,3 @@ Este repositório foi desenvolvido com o objetivo de consolidar conceitos fundam
 * **Driver de Conexão:** JDBC (Java Database Connectivity)
 
 ---
-
