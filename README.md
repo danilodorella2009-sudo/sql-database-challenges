@@ -8,7 +8,7 @@ Este repositório foi desenvolvido com o objetivo de consolidar conceitos fundam
 
 ### 1. Sistema Biblioteca Escolar 📚
 * **Conceitos de Banco de Dados:** `PRIMARY KEY`, `TINYINT`, `DEFAULT`.
-* 🔗 [Acessar Pasta do Projeto](./01-biblioteca-escolar/) | 📄 [Acessar Script SQL](./01-biblioteca-escolar/script.sql)
+* 🔗 [Acessar Pasta do Projeto](./Exercicio_1_Sistema_de_Controle_de_Biblioteca_Escolar/) | 📄 [Acessar Script SQL](./01-biblioteca-escolar/script.sql)
 
 ### 2. Sistema de Compra Online 🛒
 * **Conceitos de Banco de Dados:** `AUTO_INCREMENT`, `UNIQUE`, `DECIMAL(10,2)`, `FOREIGN KEY`, `INSERT INTO`.
